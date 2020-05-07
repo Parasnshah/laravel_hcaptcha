@@ -19,5 +19,11 @@ Add CAPTCHA_SECRET and CAPTCHA_SITEKEY to .env file:
 CAPTCHA_SECRET=[secret-key]
 CAPTCHA_SITEKEY=[site-key]
 
+## Display hcaptcha
+
+{!! HCaptcha::display() !!}
+
 
 <img src="https://github.com/Parasnshah/laravel_hcaptcha/blob/master/public/hcaptcha.PNG">
+
+Enjoy
