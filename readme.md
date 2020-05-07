@@ -9,4 +9,4 @@
 
 ## About Laravel
 
-<img src="hcaptcha.PNG">
+<img src="https://github.com/Parasnshah/laravel_hcaptcha/public/hcaptcha.PNG">
